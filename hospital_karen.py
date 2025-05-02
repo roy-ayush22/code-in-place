@@ -2,8 +2,6 @@ from karel.stanfordkarel import *
 
 # Here is a place to program your Section problem
 
-
-
 def main():
     move()
     move()
@@ -39,8 +37,7 @@ def main():
 
 
 
-
-
+#  costom functions 
 
 def turn_right():
     turn_left()
