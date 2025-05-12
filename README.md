@@ -1,6 +1,6 @@
-# 📘 Code In Place 2025 – Python Assignment Solutions
+# 📘 Code In Place 2025 
 
-Welcome to my repository for [Code In Place](https://codeinplace.stanford.edu/) – a free online programming course offered by Stanford University. This repo contains my solutions to all the Python assignments, labs, and mini-projects I completed during the course.
+Welcome to my repository for [Code In Place](https://codeinplace.stanford.edu/) – a free online programming course offered by Stanford University. This repo contains my solutions to all the assignments, labs, and mini-projects I completed during the course.
 
 ---
 
